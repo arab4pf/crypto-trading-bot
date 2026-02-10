@@ -1,10 +1,9 @@
+# Python and IDE ignore patterns
+
 __pycache__/
 *.pyc
 .env
-.venv/
-venv/
-.idea/
 .vscode/
+.idea/
 *.db
 trading_bot.log
-# Other Python project files
