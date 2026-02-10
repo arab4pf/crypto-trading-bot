@@ -1,24 +1,35 @@
-# Contribution Guidelines
+# Contributing to Crypto Trading Bot
 
-Thank you for your interest in contributing to the Crypto Trading Bot project. We're excited to have you on board! Please follow the guidelines below to ensure a smooth contribution process.
+Thank you for considering contributing to the Crypto Trading Bot project! Contributions are welcome and appreciated. To help guide you through the process, please follow these contribution guidelines:
 
-## Reporting Bugs
-- If you find a bug, please open an issue in the GitHub repository. Include as much detail as possible, including steps to reproduce, your operating system, and any relevant error messages.
+## Bug Reporting
+- If you encounter a bug, please open an issue in the repository. Make sure to include the following information:
+  - A clear description of the bug
+  - Steps to reproduce the issue
+  - Any error messages you received
 
-## Suggesting Enhancements
-- We welcome suggestions for enhancements! Please open an issue with a clear description of the enhancement you propose and why you think it would benefit the project.
+## Enhancements
+- For any feature requests or enhancements, please open an issue detailing your suggestion. Include:
+  - A clear description of the proposed enhancement
+  - Why the enhancement would be beneficial to the project
 
-## Submitting Pull Requests
-1. **Fork the repository**: Create a copy of the repo under your GitHub account.
-2. **Create a feature branch**: Use a descriptive name for the branch you’re working on.
-3. **Make your changes**: Implement your feature or fix in your local repository.
-4. **Test your changes**: Ensure your changes work as expected before submitting.
-5. **Submit your pull request**: Go to the pull requests section of the original repository and submit yours. Please include a description of your changes and reference any related issues.
+## Pull Requests
+- Before submitting a pull request, please ensure the following:
+  - Your branch is up to date with the main branch.
+  - Your changes are related to the issue you are addressing.
+  - You have tested your changes thoroughly.
+- When creating a pull request, include:
+  - A title that summarizes the changes made
+  - A description of the changes and its relevance
 
-## Code Style Guidelines
-- Follow the existing code style found in the project. Consistency is key! 
-- Use meaningful variable and function names.
-- Comment your code where necessary to explain complex logic.
-- Run tests and ensure all tests pass before submitting a pull request.
+## Code Style
+- Please adhere to the following code style guidelines:
+  - Use spaces for indentation (2 spaces preferred).
+  - Follow naming conventions for functions and variables (camelCase for JavaScript).
+  - Keep your code clean and well-documented.
 
-Thank you for contributing!
+## Testing
+- Ensure all existing and new tests pass before submitting your changes. 
+- If your contribution includes new features, please add tests to ensure they work as expected. 
+
+Thank you for contributing to the Crypto Trading Bot!
